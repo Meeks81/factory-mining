@@ -1,0 +1,5 @@
+D:/UnityGames/TT_Factory/.utmp/RelWithDebInfo/4i5e4q1q/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/UnityGames/TT_Factory/.utmp/RelWithDebInfo/4i5e4q1q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/UnityGames/TT_Factory/.utmp/RelWithDebInfo/4i5e4q1q/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+D:/UnityGames/TT_Factory/.utmp/RelWithDebInfo/4i5e4q1q/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+D:/UnityGames/TT_Factory/.utmp/RelWithDebInfo/4i5e4q1q/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
